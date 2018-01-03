@@ -1,4 +1,4 @@
-﻿Name=My MOUI Pure V1.41.1
+﻿Name=My MOUI Pure
 Style=default
 SupportPlatform=A
 SkinFlags=1
