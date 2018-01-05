@@ -18,3 +18,4 @@
 
 ### 下载
 
+[https://github.com/ShenHongFei/baidu-ime-skin-moui-pure/releases/download/v1.4.1/MOUI-Pure.bds](https://github.com/ShenHongFei/baidu-ime-skin-moui-pure/releases/download/v1.4.1/MOUI-Pure.bds)
